@@ -16,3 +16,20 @@ SVM
 6. Generate predictions.
 7. Plot the results. I hope it can be useful for someone who is starting programming using Pytorch.
 
+* Step 1:
+```bash
+# From tensorflow/models/research/
+export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+```
+* Step 2:
+```bash
+python3 convert_rgb_to_index.py
+```
+* Step 3:
+```bash
+python3 build_pqr_data.py
+```
+* Step 4:
+```bash
+sh train-pqr.sh
+```
