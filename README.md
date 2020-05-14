@@ -15,3 +15,4 @@ SVM
 5. Train the model.
 6. Generate predictions.
 7. Plot the results. I hope it can be useful for someone who is starting programming using Pytorch.
+
