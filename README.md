@@ -1,9 +1,9 @@
-## Wound Detection
+# Wound Detection
 
 Data Source: Medetec Wound Database
 http://www.medetec.co.uk/files/medetec-image-databases.html
 
-# Wound Segmentation
+## Wound Segmentation
 CNN
 
 * Step 1:
@@ -25,7 +25,7 @@ sh train-pqr.sh
 ```
 
 
-# Wound Analysis
+## Wound Analysis
 SVM
 1. Build the Dataset. We are going to generate a simple data set and then we will read it.
 2. Build the DataLoader.
