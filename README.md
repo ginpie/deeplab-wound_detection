@@ -1,5 +1,14 @@
 # Wound Detection
 
+**_Why_**: wound detection and analysis basically can help aged people evaluate their wound stages before they can have the professional consulting. Meanwhile, wound analysis will be able to play a crucial role in healing when they are at home,Wound assessment is the basis of the wound treatment.
+
+**_How_**: Wound Segmentation and Assessment - area measurement and tissue analysis (location, grade, size, fluid, pain cause of wound) → Wound Classification → Wound status
+
+**_Benefits_**: Helping users to know better about their wounds and helping aged people or their family to better take care of them in wound healing
+
+Project Documentation:
+https://drive.google.com/drive/folders/1Iwe1mbQ4ZJXRbFFSUbGase7wBOSzbXE9?usp=sharing
+
 Data Source: Medetec Wound Database
 http://www.medetec.co.uk/files/medetec-image-databases.html
 
