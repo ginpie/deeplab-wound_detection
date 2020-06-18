@@ -6,14 +6,15 @@
 
 **_Benefits_**: Helping users to know better about their wounds and helping aged people or their family to better take care of them in wound healing
 
-Project Documentation:
+**Project Documentation**:
 https://drive.google.com/drive/folders/1Iwe1mbQ4ZJXRbFFSUbGase7wBOSzbXE9?usp=sharing
 
-Data Source: Medetec Wound Database
+**Data Source**: 
+_Medetec Wound Database_
 http://www.medetec.co.uk/files/medetec-image-databases.html
 
 ## Wound Segmentation
-CNN
+Tensorflow DeepLab based semantic segmentation.
 
 ### Libraries
 Make sure you have followings:
