@@ -1,8 +1,8 @@
 # Wound Detection
 
 - [Introduction](#Introduction)
-- [Segmentation](#WoundSegmentation)
-- [Classfication](#WoundAnalysis)
+- [Segmentation](##wound-segmentation)
+- [Classfication](##wound-analysis-undergoing)
 
 ## Introduction
 **_Why_**: wound detection and analysis basically can help aged people evaluate their wound stages before they can have the professional consulting. Meanwhile, wound analysis will be able to play a crucial role in healing when they are at home,Wound assessment is the basis of the wound treatment.
