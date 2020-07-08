@@ -1,6 +1,6 @@
 # Wound Detection
 
-- [Introduction](##Introduction)
+- [Introduction](#Introduction)
 - [Segmentation](##Wound Segmentation)
 - [Classfication](##Wound Analysis)
 
